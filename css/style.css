@@ -41,7 +41,7 @@ body{
 .white-button{
 display: inline-block;
 background-color:white; 
-border:12px ;
+
 color: #c7cdd2;
 border-radius: 10px;
 padding: 10px 30px;
@@ -49,6 +49,8 @@ text-align: center;
 font-size: 20px;
 }
 .ceck{
-list-style-type: \2713;
-
+list-style: none;
+}
+h3{
+    padding-top: 30px;
 }
